@@ -7,7 +7,7 @@ Steps Involved in the Process:
 
 2. Build an app get and post request system to reuqest data and print the predicted output
 
-#Important Libraries and thier installation
+# Important Libraries and thier installation
 
 1. Numpy - pip install numpy
 2. Pandas - pip install pandas 
